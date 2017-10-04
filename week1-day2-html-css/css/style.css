@@ -1,0 +1,46 @@
+h1 {
+	color: white;
+	background-color: black;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h2 {
+	font-size:20px;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h3 {
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+h4 {
+	font-family: sans-serif;
+}
+
+body {
+	background: #fff url(https://i.pinimg.com/236x/79/d3/1e/79d31e546793f298f213994e9ed91c45--pattern-print-pattern-design.jpg);
+	background-color: #efeee7;
+
+}
+
+img {
+	display: block;
+	margin:0 auto;
+	float:left;
+}
+
+.paragraph {
+	font-family: sans-serif;
+	margin-left: 250px;
+	margin-right: 250px;
+	background-color: rgba(255, 255, 255, 0.8);
+	padding: 10px;
+}
+
+#contact-info {
+	position: relative;
+
+}
